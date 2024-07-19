@@ -25,7 +25,7 @@ MAX_R = 170
 OUTLIER_TOR = 110
 
 INPUT_DIR = "./input/"
-OUTPUT_DIR = "./410985049/"
+OUTPUT_DIR = "./output/"
 
 # Global variables
 width = 0
